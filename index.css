@@ -1,0 +1,43 @@
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+
+    box-sizing: border-box;
+    height: 50%;
+    padding: 20px;
+    border-width: 20px;
+    border-style: solid;
+    border-color: blue;
+    margin: 20px;
+    background-color: lightblue;
+}
+
+p {
+    color: blueviolet;
+    background-color: yellow;
+    padding: 1em;
+}
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a:link { 
+    color: khaki; 
+}
+a:visited { 
+    color: green; 
+}
+a:hover { 
+    color: hotpink; 
+}
+a:active { 
+    color: orange; 
+}
