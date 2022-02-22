@@ -2,4 +2,4 @@
  
 Farbpalette
 
-https://coolors.co/c2c094-a9a587-36003d-730071-dc9596
+https://paletton.com/#uid=63F070k47p97SqR5rnt6jlw77jS
